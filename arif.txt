@@ -1,2 +1,0 @@
-create a new branch.
-Successfully create new branch and commit in file.
